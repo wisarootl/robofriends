@@ -1,3 +1,10 @@
+# Project Description
+
+This project is made using React. It is a part of Complete Web Development Course by Zero to Mastery
+
+[Live](https://wisarootl.github.io/robofriends/)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
