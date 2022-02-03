@@ -2,9 +2,9 @@
 
 This project is made using React. It is a part of Complete Web Development Course by Zero to Mastery
 
-[See Live](https://wisarootl.github.io/robofriends/)(https://wisarootl.github.io/robofriends/)
+[See Live](https://wisarootl.github.io/robofriends/) (https://wisarootl.github.io/robofriends/)
 
-====
+___
 
 # Getting Started with Create React App
 
